@@ -11,6 +11,7 @@
 - Unicode별 폴더 생성 후 code에 맞는 순서의 한글을 이미지로 만들어서 저장(폰트파일당 11172회)
 
 ## 사용한 환경에 설치된 모든 패키지(conda list)
+```
 Name                      Version                   Build    Channel
 _tflow_select             2.3.0                       mkl
 absl-py                   0.8.1                    py37_0    conda-forge
@@ -93,3 +94,4 @@ wrapt                     1.11.2           py37hfa6e2cd_0    conda-forge
 xz                        5.2.4             h2fa13f4_1001    conda-forge
 zlib                      1.2.11            h2fa13f4_1006    conda-forge
 zstd                      1.4.4                hd8a0e53_1    conda-forge
+```
